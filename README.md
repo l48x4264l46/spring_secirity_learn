@@ -1,2 +1,2 @@
-# spring_secirity_learn
-spring_secirity_learn
+# spring_security_learn
+spring_security_learn
